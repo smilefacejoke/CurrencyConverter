@@ -12,6 +12,7 @@ struct ContentView: View {
                     calculationRateBanner
                     amountCard
                     resultCard
+                    FullRateChart(points: model.history)
                     rateFooter
                 }
                 .padding(20)

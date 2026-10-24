@@ -99,4 +99,78 @@ struct ExchangeRateService: Sendable {
             fetchedAt: Date()
         )
     }
+
+    // MARK: - History (USD → CNY)
+
+    /// 近 N 天日汇率；网络失败时回落到缓存
+    func fetchUSDToCNYHistory(days: Int = 7) async throws -> [RatePoint] {
+        do {
+            let points = try await requestHistory(days: days)
+            cache.saveHistory(points)
+            return points
+        } catch {
+            if let cached = cache.loadHistory() {
+                return cached
+            }
+            throw error
+        }
+    }
+
+    func cachedHistory() -> [RatePoint]? {
+        cache.loadHistory()
+    }
+
+    private struct FrankfurterSeriesResponse: Decodable {
+        let rates: [String: [String: Double]]
+    }
+
+    private func requestHistory(days: Int) async throws -> [RatePoint] {
+        let calendar = Calendar.current
+        let end = calendar.startOfDay(for: Date())
+        let startDate = calendar.date(byAdding: .day, value: -(days - 1), to: end) ?? end
+
+        let fmt = DateFormatter()
+        fmt.dateFormat = "yyyy-MM-dd"
+        fmt.timeZone = TimeZone(identifier: "UTC")
+
+        var components = URLComponents(string: "https://api.frankfurter.dev/v1/\(fmt.string(from: startDate))..\(fmt.string(from: end))")!
+        components.queryItems = [
+            URLQueryItem(name: "from", value: "USD"),
+            URLQueryItem(name: "to", value: "CNY"),
+        ]
+        guard let url = components.url else { throw RateError.badResponse }
+
+        let data: Data
+        let response: URLResponse
+        do {
+            (data, response) = try await session.data(from: url)
+        } catch {
+            throw RateError.network(error)
+        }
+
+        guard let http = response as? HTTPURLResponse, (200..<300).contains(http.statusCode) else {
+            throw RateError.badResponse
+        }
+
+        let decoded: FrankfurterSeriesResponse
+        do {
+            decoded = try JSONDecoder().decode(FrankfurterSeriesResponse.self, from: data)
+        } catch {
+            throw RateError.badResponse
+        }
+
+        let dayFmt = DateFormatter()
+        dayFmt.dateFormat = "yyyy-MM-dd"
+        dayFmt.timeZone = TimeZone(identifier: "UTC")
+
+        let points: [RatePoint] = decoded.rates.compactMap { day, values in
+            guard let rate = values["CNY"], let date = dayFmt.date(from: day) else { return nil }
+            return RatePoint(date: date, usdToCny: rate)
+        }
+        .sorted { $0.date < $1.date }
+
+        guard !points.isEmpty else { throw RateError.missingRate }
+        return points
+    }
+
 }

@@ -10,6 +10,7 @@ final class ConverterViewModel {
     var isLoading: Bool = false
     var errorMessage: String?
     var isOfflineFallback: Bool = false
+    var history: [RatePoint] = []
 
     private let service = ExchangeRateService()
 
@@ -61,6 +62,9 @@ final class ConverterViewModel {
             rate = cached
             isOfflineFallback = true
         }
+        if let cachedHistory = service.cachedHistory() {
+            history = cachedHistory
+        }
         Task { await refresh() }
     }
 
@@ -70,9 +74,14 @@ final class ConverterViewModel {
         defer { isLoading = false }
 
         do {
-            let fetched = try await service.fetchCNYToUSD()
+            async let rateFetch = service.fetchCNYToUSD()
+            async let historyFetch = service.fetchUSDToCNYHistory(days: 7)
+            let fetched = try await rateFetch
             rate = fetched
             isOfflineFallback = false
+            if let hist = try? await historyFetch {
+                history = hist
+            }
         } catch {
             if rate == nil {
                 errorMessage = error.localizedDescription

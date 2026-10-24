@@ -28,4 +28,26 @@ struct RateCache: Sendable {
     func clear() {
         try? FileManager.default.removeItem(at: fileURL)
     }
+
+    // MARK: - History cache
+
+    private var historyURL: URL {
+        fileURL.deletingLastPathComponent().appendingPathComponent("cached_rate_history.json")
+    }
+
+    func loadHistory() -> [RatePoint]? {
+        guard let data = try? Data(contentsOf: historyURL) else { return nil }
+        let decoder = JSONDecoder()
+        decoder.dateDecodingStrategy = .iso8601
+        return try? decoder.decode([RatePoint].self, from: data)
+    }
+
+    func saveHistory(_ points: [RatePoint]) {
+        let encoder = JSONEncoder()
+        encoder.dateEncodingStrategy = .iso8601
+        encoder.outputFormatting = [.sortedKeys]
+        guard let data = try? encoder.encode(points) else { return }
+        try? data.write(to: historyURL, options: .atomic)
+    }
+
 }
