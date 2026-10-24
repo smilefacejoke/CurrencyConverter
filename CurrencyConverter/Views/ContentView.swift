@@ -9,6 +9,7 @@ struct ContentView: View {
             ScrollView {
                 VStack(spacing: 28) {
                     header
+                    calculationRateBanner
                     amountCard
                     resultCard
                     rateFooter
@@ -31,7 +32,10 @@ struct ContentView: View {
                     .disabled(model.isLoading)
                 }
             }
-            .task { model.loadOnAppear() }
+            .task {
+                model.loadOnAppear()
+                amountFocused = true
+            }
             .refreshable { await model.refresh() }
         }
     }
@@ -58,6 +62,34 @@ struct ContentView: View {
         }
     }
 
+    private var calculationRateBanner: some View {
+        HStack {
+            VStack(alignment: .leading, spacing: 4) {
+                Text("计算汇率")
+                    .font(.caption.weight(.semibold))
+                    .foregroundStyle(.secondary)
+                if let calc = model.calculationRateDisplay {
+                    Text("1 USD = \(calc) CNY")
+                        .font(.title2.weight(.bold))
+                        .monospacedDigit()
+                } else {
+                    Text("1 USD = — CNY")
+                        .font(.title2.weight(.bold))
+                        .foregroundStyle(.tertiary)
+                }
+            }
+            Spacer()
+            Text("向下取整")
+                .font(.caption2)
+                .foregroundStyle(.secondary)
+                .padding(.horizontal, 8)
+                .padding(.vertical, 4)
+                .background(.secondary.opacity(0.12), in: Capsule())
+        }
+        .padding(16)
+        .background(Color(.secondarySystemGroupedBackground), in: RoundedRectangle(cornerRadius: 16))
+    }
+
     private var amountCard: some View {
         VStack(alignment: .leading, spacing: 12) {
             HStack {
@@ -75,7 +107,11 @@ struct ContentView: View {
                     .foregroundStyle(.secondary)
 
                 TextField("0", text: $model.amountText)
-                    .keyboardType(.decimalPad)
+                    // decimalPad 在模拟器 + 硬件键盘下经常收不到按键
+                    .keyboardType(.numbersAndPunctuation)
+                    .textContentType(.none)
+                    .autocorrectionDisabled()
+                    .textInputAutocapitalization(.never)
                     .font(.system(size: 40, weight: .bold, design: .rounded))
                     .focused($amountFocused)
 
@@ -128,17 +164,18 @@ struct ContentView: View {
     }
 
     private var rateFooter: some View {
-        let pair = model.displayRate
+        // 固定显示 1 USD = ? CNY，不随换算方向变化
+        let usd = model.usdToCny
         return VStack(spacing: 10) {
-            if pair.rate > 0 {
-                Text("1 \(pair.base.rawValue) = \(String(format: "%.4f", pair.rate)) \(pair.quote.rawValue)")
+            if let usd, usd.rate > 0 {
+                Text("真实汇率 1 USD = \(String(format: "%.4f", usd.rate)) CNY")
                     .font(.callout.weight(.medium))
 
-                Text("汇率日期：\(pair.date.formatted(date: .abbreviated, time: .omitted))")
+                Text("汇率日期：\(usd.date.formatted(date: .abbreviated, time: .omitted))")
                     .font(.caption)
                     .foregroundStyle(.secondary)
 
-                Text("更新于：\(pair.fetchedAt.formatted(date: .abbreviated, time: .shortened))")
+                Text("更新于：\(usd.fetchedAt.formatted(date: .abbreviated, time: .shortened))")
                     .font(.caption2)
                     .foregroundStyle(.tertiary)
             } else {

@@ -216,441 +216,441 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Accessibility-BG9ISNSEQD4AS1TVP542PEL2A.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Accessibility-A43CGKQ6B1J64WFFW72ERHD4Y.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CFNetwork-8AZU1BXR1ZSW18QR57UIQOKBA.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CFNetwork-6VUH4E4Z0HKDC0K9STMBR61GJ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreAudio-A80Y3I3PIO7O8ZY979EODED26.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreAudio-6DE42SIWLD30OMNK6I0SR1GJ5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreAudioTypes-6L7QHTOAWARHRA4MWQE49OZNQ.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreAudioTypes-EWMOBW6FWX2CBLITNQJEO6YZ3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreData-BSC8A3HYKB3YRNVSLO5EUCEZR.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreData-BE9X33LSWHSCCT4EE4RAV8QGN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreFoundation-DXPLKBPPKKQ0UD86RMA55N4FG.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreFoundation-9B3UM3HMWJ9LZPMVBBJL0LNLP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreGraphics-7LBF585CIW2UYM757VSYAB1TA.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreGraphics-D84NWFB8KG3Q23YTKRSTO4VK8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreImage-6LBISG5HO0YFH2VURVQIL70F6.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreImage-CDMS5T6RHW50H4JNJ7T3HKF6N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreLocation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreLocation-8J7TUIKVW9CAYJB6SKFIXSUVD.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreLocation-7Z3VL4FW4UN609995Y8CU95VZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreLocation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreMedia-6JOLYVMRBIJHJ8JDSP4KCTKWY.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreMedia-B5EG4I0XKFZ41F9WVCQXUV7RU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreMotion.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreMotion-AXROYLOI53K310257WOCO59MC.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreMotion-4NYJYPRT3TWGWGUCBYXXEZLL4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMotion"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreText-DBT6G6LNA9TJCYS6RQ12IRBFL.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreText-672GR5PP80T7UB3VUOSH05ZLP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreTransferable-80KC2EGCO973F8A5NQ8G7RBDQ.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreTransferable-55RUA8ALY29M0SY46WCWFWML7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/CoreVideo-238OTZEVHE6D73R574G7M9I5W.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/CoreVideo-3B87FR93E5V7IN7WAN9NRCKJC.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Darwin-5AP6SEEU14CUUDZK4IPN4QUVT.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Darwin-4273V64IQXIJS81XTO43A6VJN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/DataDetection-7Z0208XAM0677GFOMMRYAN4DE.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/DataDetection-B0ZCZCA7DOYL3FQ41YRY7X0GG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-C05K37PLU46ZKCDQFOYZD0B4D.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/DeveloperToolsSupport-D5VV6PARTNET5K48EJC3YW86C.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Dispatch-ESXDOOPFGTGAZQJZ47I6WCZ0D.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Dispatch-C5JYGMMQLAAMM5UMUOQKFTS2S.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/FileProvider.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/FileProvider-18S98OMUKMY4O92VQQGPAGDMI.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/FileProvider-4FL5W67G67XPCP7BB2H2OO2WU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "FileProvider"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Foundation-6IECRRU1MTCDYLXXYFM89GN3N.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Foundation-D7DRGN76IVI44S3XPDJ9YWIT5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/IOSurface-BQKHV6ZF85GA05HED88EZL3CT.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/IOSurface-2XKVVGIJDUIWFJYU5H8SGZD6Y.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/ImageIO-7GYFPNIL5EY3T26GQOIDVX1OC.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/ImageIO-BFRX2J76AJ4TCYZGSKVKQKH95.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/MachO-20GKI9UTY6CUQNZMKLCFSXN10.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/MachO-27Z806RRSZRT644XLP9YNO9RV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Metal-AHQ8W1B5Q3S1VDIKBI5L2CWD9.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Metal-6BEQ3ARAULRED9DVF253JRFO7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/OSLog-CKPIE88VNY315OX77GSCRMSPC.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/OSLog-33ANZT8NFMVDO5XH89U41JY7D.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/ObjectiveC-BDV8Q69MNTYZ1X3CVTCBXGRS3.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/ObjectiveC-26PRDQ4WYXXS5NC3WP6LES5AX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/OpenGLES.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/OpenGLES-2D9WN039FSWN6S2DBOI71B35C.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/OpenGLES-C5FGS6EL2IUYRORLTXFEZ19EL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGLES"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/QuartzCore-VGX5AGZ2Z990U1115SRK4X3R.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/QuartzCore-DDDLMST1JX81XWU9UNEIHVTKG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Security-3XCAVNSVWNKX4PYCRXRDK2E49.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Security-A1TVSL6OZWELSK8349IDZVOYY.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/Spatial\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Spatial-6POWX5VQA4O919Z37A2785VH9.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Spatial-E53DPCY2JB2E7G8EHC70NIETS.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Spatial"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/SwiftShims-51W35MP5419YK0XX5PGBO1BJ.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/SwiftShims-18EHL8X5BP7OLPH8KHEGNYXR5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/SwiftUI.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/SwiftUI-XJ65S7BQECXSDC3L9VDVXTXA.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/SwiftUI-87Z171MASMKQG9AGA6TKU1VV2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUI"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/SwiftUICore-CIG8KLOUQCXY10DH0URXFHI55.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/SwiftUICore-8Q1QLOTG1U19AQ0XOG2BD0G41.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/Symbols-8WOCQ3JEWAQ80MKJYQQXGP7EV.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/Symbols-EQFR2TKOBRWOFH2VSDRFR0V87.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/UIKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/UIKit-13AMTDKQUENEICX2ZWL71CL9H.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/UIKit-4VNAG8EUDC3XBPDFO4711QHEE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UIKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/SubFrameworks\/UIUtilities.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/UIUtilities-7P03QHL5QL9E7LQR6P3GKN03G.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/UIUtilities-8SWHM9XGKGCSPHULKVZ8JSMYL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UIUtilities"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-DQQ92QKTGC26X26JGRXITDVBJ.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/UniformTypeIdentifiers-BPTZSMNG4C5T8FZ4I0DHRLNYG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/UserNotifications.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/UserNotifications-28U2OKIOXPSY87Z79AMJU8V5T.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/UserNotifications-C0YNLGU7M0JA0DDAYVUURNP8D.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UserNotifications"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/XPC-ALMM919NC8J1O46SJH4WLJUVH.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/XPC-2HHDLBAL0FDBBPRSRAPCKU10Q.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-3XSRICQIK0H2CXW2SX8K1AWBA.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-4PW8CT9ZIP5KEAE3AYSFVOSY4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_float-AVQNGCL8TZNI2VGHS5PVZTQXC.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_float-2KNKJUQRTV5SP2WOBVCAGMJU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-BHUDRO7K68IPRLZAKHZX3DSU7.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_intrinsics-6RC32EAE1ZUKRPUAYZZHRJPQ2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-8J5CRUWNOC1LXQ0QJN9G45CY4.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-ELHWE2L6N677SMJXSZC16OHED.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_limits-296111DWV90621ZMB5PFBVMHF.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_limits-DGD87FHLW89G0BQS3TRBPZGCN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-6S4RID2UL52DUZED958TL7B5D.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-342S3DQS8NGTZBJUMH1QXX61N.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-9R6082BMTFG9BLD5XOVGCLRLT.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-4LPC0L20SNGAJ7LV9KSNK79U9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-RFJ9P2H2JM1MFU8VHW3QQFX9.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-617SF2D63TSXE6E9S33CVUM0G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_stddef-6LDR7FTQ0CBY6XUO2T9JZWK4M.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_stddef-29G8GZH5NV0CKHV07RTABJ5PA.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdint-D544CSMKUPL03VY9G6PKM0DQ.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_stdint-2M1AMRQMCRXH14LULB64QWJUE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-EPEAKHWELMJ3F47TRU41V4AMO.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_Builtin_tgmath-ABSWZQF0OI0L6TSG02FI0JG9S.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-2VRB4P3VMUBY2HOLI2FNJZKIY.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-C09SPTIXJXFCJSA9ZBHYQIZ1I.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-9SL1R8ALZLD9VOSPZ3QR2OKWF.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-2PQOAD8LYDBJJLJBX9AOEEPVO.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-B8KE5IP22OKE93BIJO4B3ZT98.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-AIZQVOF2SD9NF8NLYLBHYTHYP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/System\/Library\/Frameworks\/_LocationEssentials.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_LocationEssentials-CWZUYE6353QPRMKGG777FHUS8.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_LocationEssentials-9WNS3LV73S8DSVKQG6TS4KAP.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_LocationEssentials"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-B56LU4DV534U25PHVPZY56D6.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-BXV4GLZHGK3FVARXWINSE5AJ1.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/os-BH6CT4RB2OE8YMESVPBD0H31U.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/os-AU3PI5JDQ9JNQIBH7YJ9VS9T3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/os_object-70GR54A1D0813OASN0DBYZSZC.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/os_object-1V410JXCCZ0G3OCE6WFWRGXD2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/os_workgroup-42NV95XPN28E1F6RMF6JBJ3TZ.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/os_workgroup-EC1HAY3I409ILHGIQNKDP28U.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/ptrauth-5EIVTNS8G5PL7WJGQ8Z8FT0KS.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/ptrauth-3D2P457NGC49K6G1J9AG9UKUR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/21\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/ptrcheck-93ONXIAJQN1V54XGY9JHQKU99.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/ptrcheck-GNWD79UY8FD2PGAJDYFHN71K.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/simd-3UVO6ELUVAYGY5RISH93QJMGH.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/simd-615IH8HI922VB630D8EGLRVRI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/c_standard_library.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/string_h-C2XJFCHE0QP8IM1GD3V7S4B6R.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/string_h-DUWDND3QWS2RJACUNVJUZCEST.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "string_h"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/iPhoneSimulator.platform\/Developer\/SDKs\/iPhoneSimulator.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/人民币美元自动转换器\/build\/SDKExplicitPrecompiledModules\/sys_types-8HKBQERK2R7AA41Q74LBN9YJK.pcm",
+    "clangModulePath" : "\/Users\/mr.zhang\/XiaomiMiMoProjects\/CurrencyConverter\/build\/SDKExplicitPrecompiledModules\/sys_types-2YRNR42K89LQWKJ65JD8X8UOF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"

@@ -20,21 +20,40 @@ final class ConverterViewModel {
         Double(amountText.replacingOccurrences(of: ",", with: "")) ?? 0
     }
 
-    var convertedAmount: Double? {
+    /// 固定方向：1 USD = ? CNY（不随换算方向切换）
+    var usdToCny: ExchangeRate? {
         guard let rate else { return nil }
-        let pair = displayRate
-        return amountValue * pair.rate
+        return rate.base == .usd && rate.quote == .cny ? rate : rate.inverted
     }
 
-    /// 当前方向下的 1 单位汇率
+    /// 计算汇率：1 USD = ? CNY，保留 1 位小数，最后一位向下取整
+    var calculationRate: Double? {
+        guard let usd = usdToCny, usd.rate > 0 else { return nil }
+        return (usd.rate * 10).rounded(.down) / 10
+    }
+
+    var calculationRateDisplay: String? {
+        guard let calc = calculationRate else { return nil }
+        return String(format: "%.1f", calc)
+    }
+
+    /// 金额换算统一使用计算汇率（而非实时精确汇率）
+    var convertedAmount: Double? {
+        guard let calc = calculationRate, calc > 0 else { return nil }
+        if isUSDToCNY {
+            return amountValue * calc
+        } else {
+            return amountValue / calc
+        }
+    }
+
+    /// 当前换算方向下的计算汇率（展示用）
     var displayRate: ExchangeRate {
-        guard let rate else {
+        guard let calc = calculationRate else {
             return ExchangeRate(base: sourceCurrency, quote: targetCurrency, rate: 0, date: Date(), fetchedAt: Date())
         }
-        if rate.base == sourceCurrency && rate.quote == targetCurrency {
-            return rate
-        }
-        return rate.inverted
+        let value = isUSDToCNY ? calc : (1 / calc)
+        return ExchangeRate(base: sourceCurrency, quote: targetCurrency, rate: value, date: Date(), fetchedAt: Date())
     }
 
     func loadOnAppear() {

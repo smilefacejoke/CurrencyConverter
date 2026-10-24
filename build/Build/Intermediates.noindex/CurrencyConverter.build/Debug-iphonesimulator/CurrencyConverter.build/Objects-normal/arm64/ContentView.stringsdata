@@ -1,5 +1,5 @@
 {
-  "source": "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/CurrencyConverter/Views/ContentView.swift",
+  "source": "/Users/mr.zhang/XiaomiMiMoProjects/CurrencyConverter/CurrencyConverter/Views/ContentView.swift",
   "tables": {
     "Localizable": [
       {
@@ -15,7 +15,7 @@
         "key": "实时汇率 · 离线可用",
         "location": {
           "startingColumn": 18,
-          "startingLine": 41
+          "startingLine": 44
         }
       },
       {
@@ -23,7 +23,7 @@
         "key": "当前为离线缓存汇率",
         "location": {
           "startingColumn": 23,
-          "startingLine": 45
+          "startingLine": 48
         }
       },
       {
@@ -31,7 +31,7 @@
         "key": "输入金额",
         "location": {
           "startingColumn": 22,
-          "startingLine": 64
+          "startingLine": 67
         }
       },
       {
@@ -39,7 +39,7 @@
         "key": "0",
         "location": {
           "startingColumn": 27,
-          "startingLine": 77
+          "startingLine": 80
         }
       },
       {
@@ -47,7 +47,7 @@
         "key": "交换币种",
         "location": {
           "startingColumn": 37,
-          "startingLine": 91
+          "startingLine": 98
         }
       },
       {
@@ -55,7 +55,7 @@
         "key": "换算结果",
         "location": {
           "startingColumn": 22,
-          "startingLine": 101
+          "startingLine": 108
         }
       },
       {
@@ -63,7 +63,7 @@
         "key": "—",
         "location": {
           "startingColumn": 26,
-          "startingLine": 119
+          "startingLine": 126
         }
       },
       {
@@ -71,7 +71,7 @@
         "key": "1 %@ = %@ %@",
         "location": {
           "startingColumn": 22,
-          "startingLine": 134
+          "startingLine": 141
         }
       },
       {
@@ -79,7 +79,7 @@
         "key": "汇率日期：%@",
         "location": {
           "startingColumn": 22,
-          "startingLine": 137
+          "startingLine": 144
         }
       },
       {
@@ -87,7 +87,7 @@
         "key": "更新于：%@",
         "location": {
           "startingColumn": 22,
-          "startingLine": 141
+          "startingLine": 148
         }
       },
       {
@@ -95,7 +95,7 @@
         "key": "下拉或点击刷新获取汇率",
         "location": {
           "startingColumn": 22,
-          "startingLine": 145
+          "startingLine": 152
         }
       }
     ]
