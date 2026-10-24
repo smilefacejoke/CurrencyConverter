@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverter-primary.dia",
+    "emit-module-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverter-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverter-primary-emit-module.dia",
+    "pch" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverter-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverter-primary.swiftdeps"
+  },
+  "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/CurrencyConverter/CurrencyConverterApp.swift" : {
+    "const-values" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp.swiftconstvalues",
+    "dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp.d",
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp.o",
+    "llvm-bc" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp.bc",
+    "object" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp.o",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp.swiftdeps",
+    "swiftmodule" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/CurrencyConverterApp~partial.swiftmodule"
+  },
+  "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/CurrencyConverter/Models/ConverterViewModel.swift" : {
+    "const-values" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel.swiftconstvalues",
+    "dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel.d",
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel.o",
+    "llvm-bc" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel.bc",
+    "object" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel.o",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel.swiftdeps",
+    "swiftmodule" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ConverterViewModel~partial.swiftmodule"
+  },
+  "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/CurrencyConverter/Models/ExchangeRate.swift" : {
+    "const-values" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate.swiftconstvalues",
+    "dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate.d",
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate.o",
+    "llvm-bc" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate.bc",
+    "object" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate.o",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate.swiftdeps",
+    "swiftmodule" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRate~partial.swiftmodule"
+  },
+  "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/CurrencyConverter/Services/ExchangeRateService.swift" : {
+    "const-values" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService.swiftconstvalues",
+    "dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService.d",
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService.o",
+    "llvm-bc" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService.bc",
+    "object" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService.o",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService.swiftdeps",
+    "swiftmodule" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ExchangeRateService~partial.swiftmodule"
+  },
+  "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/CurrencyConverter/Services/RateCache.swift" : {
+    "const-values" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache.swiftconstvalues",
+    "dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache.d",
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache.o",
+    "llvm-bc" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache.bc",
+    "object" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache.o",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache.swiftdeps",
+    "swiftmodule" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/RateCache~partial.swiftmodule"
+  },
+  "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/CurrencyConverter/Views/ContentView.swift" : {
+    "const-values" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mr.zhang/XiaomiMiMoProjects/人民币美元自动转换器/build/Build/Intermediates.noindex/CurrencyConverter.build/Debug-iphonesimulator/CurrencyConverter.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

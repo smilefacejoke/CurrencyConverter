@@ -1,0 +1,1 @@
+@rpath/CurrencyConverter.debug.dylib
